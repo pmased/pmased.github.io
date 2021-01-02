@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pengfei Ma"
   avatar           : "images/pma.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+#  bio              : 
   location         : "Shanghai"
   employer         : Tongji University/State Key Laboratory of Marine Geology
   email            : pma@tongji.edu.cn
